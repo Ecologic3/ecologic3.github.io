@@ -8,8 +8,13 @@ body {
 }
 
 h1 {
-    text-align: center;
+    text-align: left;
     margin-top: 0px;
+    font-style: bold;
+}
+
+h2 {
+    text-align: left;
     font-style: bold;
 }
 

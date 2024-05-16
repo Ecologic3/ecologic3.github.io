@@ -1,7 +1,0 @@
-Adware (iné názvy: advér, reklamný softvér[1]) je akýkoľvek softvér, ktorý automaticky zobrazuje, prehráva alebo sťahuje reklamný materiál na počítači po svojej inštalácii alebo pri používaní tohto softvéru.
-
-Reklamy v týchto programoch slúžia niekedy na pokrytie nákladov na tvorbu programu, a vďaka nim je možné, aby program bol dostupný zadarmo.
-
-Adware sa často zamieňa so spyware, ale je pravda, že množstvo reklamných programov neobsahuje reklamy iba na podporu autorov, ale aj sleduje činnosť používateľa bez jeho vedomia, vtedy už nejde o neškodné zobrazovanie reklám. 
-
-Sám o sobě bývá většinou neškodný, může ale odkazovat na phishingové stránky nebo stránky šířící malware. Často také stahuje do zařízení další reklamní obsah a uživatele tak reklamou zcela zahltí. Agresivnější adware dokáže změnit nastavení výchozí domovské stránky v internetovém prohlížeči nebo výchozí vyhledávač. Adware výrazně snižuje pohodlí uživatele při práci či surfování online.

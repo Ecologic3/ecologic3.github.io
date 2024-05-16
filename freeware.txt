@@ -1,6 +1,0 @@
-softvér, ktorý autor dáva za určitých podmienok k dispozícii na bezplatné používanie a prípadne aj na bezplatné šírenie, nedáva však k dispozícii zdrojový kód a neumožňuje tak jeho úpravu
-má obvykle nejaké autorom stanovené obmedzenia na používanie, kopírovanie alebo šírenie uvedené v licenčnej zmluve
-Bezplatné používanie býva v licenčných zmluvách často obmedzené rozličnými podmienkami, napríklad len na nekomerčné osobné použitie, len na domácom počítači, len na vzdelávacie účely, len v rámci neziskových organizácií, univerzít, knižníc a podobne V niektorých prípadoch freeware vyžaduje bezplatnú registráciu
-Licenčné zmluvy k freewaru obvykle zakazujú akokoľvek zisťovať zdrojový kód freewaru (napríklad pomocou reverzného inžinierstva alebo dekompiláciou). Taktiež obvykle zakazujú softvér akokoľvek meniť alebo z jeho akejkoľvek časti vytvárať odvodený softvér
-V prípade ak chce používateľ využiť freeware inak než to dovoľuje licenčná zmluva, má v niektorých prípadoch možnosť si od autora freewaru zakúpiť platenú komerčnú verziu softvéru, alebo skúsiť autora požiadať o súhlas
-Je potrebné rozlišovať medzi freeware a "free software" (slobodný softvér). Slovo "free" v prípade freeware znamená "zadarmo", zatiaľ čo v prípade "free software" znamená "slobodný"
