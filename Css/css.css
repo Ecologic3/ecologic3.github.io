@@ -4,6 +4,7 @@ body {
     margin-left: 1%;
     margin-top: 1%;
     margin-bottom: 0%;
+    background-color: #3611ad;
 }
 
 h1 {
@@ -42,7 +43,8 @@ td {
 }
 
 #kontakty p {
-    margin-left: 10%;
+    margin: 10px;
+    font-family: "Verdana";
 }
 
 #rotator img {
@@ -102,6 +104,7 @@ td {
     height: 70%;
     margin-left: 15%;
     padding-left: 1%;
+    padding-right: 1%;
     padding-top: 1%;
 }
 

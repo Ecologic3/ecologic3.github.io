@@ -1,0 +1,14 @@
+ Upgrade softvéru
+
+Častokrát si ľudia mýlia pojmy update a upgrade:
+
+    Upgrade je rozšírenie programového produktu o nové funkcie, funkčná zmena aplikácie, ktorá nevyplýva zo zmenených legislatívnych podmienok, zdokonalenie používaného softvérového produktu, nahradenie programu novšou vylepšenou aplikáciou.
+
+    Update  je aktualizácia existujúceho programového produktu, napr. prispôsobenie programu platnej legislatíve, odstránenie chýb programu, zmena dát v databáze. Update nie je technickým zhodnotením softvéru a účtuje sa na ťarchu účtu nákladov.
+
+
+Update  je aktualizácia existujúceho programového produktu, napr. prispôsobenie programu platnej legislatíve, odstránenie chýb programu, zmena dát v databáze. Update nie je technickým zhodnotením softvéru a účtuje sa na ťarchu účtu nákladov.
+
+Upgrade je rozšírenie programového produktu o nové funkcie, funkčná zmena aplikácie, ktorá nevyplýva zo zmenených legislatívnych podmienok, zdokonalenie používaného softvérového produktu, nahradenie programu novšou vylepšenou aplikáciou.
+
+Upgrade softvéru sa účtuje ako technické zhodnotenie v súlade s § 29 zákona č. 595/2003 Z. z. o dani z príjmov, ak náklady na dokončené technické zhodnotenie nehmotného majetku prevyšujú v úhrne za účtovné obdobie sumu 1 700 €. Upgrade, ktorý spĺňa kritériá technického zhodnotenia, zvyšuje obstarávaciu cenu  dlhodobého nehmotného majetku, na ktorom bolo technické zhodnotenie vykonané a účtuje sa na ťarchu príslušného účtu účtovej skupiny 01 – Dlhodobý nehmotný majetok.
